@@ -20,3 +20,6 @@ npn -i g @nestjs/cli
 ```
 docker-compose up -d
 ```
+#stack usado
+* mongodb
+* nest
